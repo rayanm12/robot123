@@ -103,9 +103,9 @@ const Twana100= new Discord.Client();
 
 
 
-Twana1.login("");
-Twana2.login("");
-Twana3.login("");
+Twana1.login("NzkzNzg2MTAzOTQwMzgyNzIw.X-xc8Q.0isnEJqlJHOqrzPBbjiMz0GvHus");
+Twana2.login("NzkzODA0NDYzNzYwMzQzMDQw.X-xmPQ.ZRSqHXxyQnkfzzOiIOlSjoYCvRo");
+Twana3.login("NzkzODM2NjcwNzEyNjc2MzYy.X-yEMA.IUglPi8f6QidwOu_xxCNO3ltB2Y");
 Twana4.login("");
 Twana5.login("");
 Twana6.login("");
